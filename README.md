@@ -25,6 +25,7 @@ For this asessment you'll need to familiarize yourself with parts of the [GitHub
 3. The ability to navigate backwards through the navigation stack
 
 Show us what you can do in no more than 24 hours. Keep a log of the time spent and include it with your submission. Note that there are no designs to follow for this assessment, so you have creative freedom when it comes to the layout and so on.
+If you are on Macbook, you should build the application for both iOS and Android. If you have windows, just Android build is fine.
 
 ##### Bonus features
 
