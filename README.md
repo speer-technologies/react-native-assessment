@@ -51,5 +51,6 @@ Please commit all of your work to a *private* GitHub repository. When you are fi
 
 **React Native Developer Assessment - [Your Name]**.
 
+If any of these submission steps are missing, you will be rejected automatically.
 
 #### Goodluck!
