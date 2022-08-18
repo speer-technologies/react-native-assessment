@@ -49,6 +49,8 @@ This exercise will be graded on a number of criteria including, but not limited 
 
 ### Submission
 
+<i>There is no specific deadline, but please keep your work within a 24 hour time period (meaning you can start whenever as long you complete the assessment within a 24 hour period). It would be great if you could submit the assessment as soon as possible.</i>
+
 Please commit all of your work to a *private* GitHub repository. When you are finished, <b>include a log of the time spent for this assessment</b>, <b>invite</b> the [tae-at-speer](https://github.com/tae-at-speer) account.
 
 To submit your assessment please see here:
