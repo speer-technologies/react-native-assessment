@@ -53,6 +53,8 @@ This exercise will be graded on a number of criteria including, but not limited 
 
 Please commit all of your work to a *private* GitHub repository. When you are finished, <b>include a log of the time spent for this assessment</b>, <b>invite</b> the [tae-at-speer](https://github.com/tae-at-speer) account.
 
+<b>Note</b>: Any submissions that do not follow these requirements will be rejected
+
 To submit your assessment please see here:
 https://docs.google.com/forms/d/e/1FAIpQLSc-DtUp1TLlde_FTjL-kkAkAn0M0I4Xjf4Md5M5NjYJWpDg4g/viewform?usp=sf_link
 
