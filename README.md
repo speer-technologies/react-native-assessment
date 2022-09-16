@@ -5,6 +5,8 @@
 
 The goal of this assessment is to build a basic React Native application which demonstrates common tasks such as fetching data, parsing model entities from JSON, UI, and navigation.
 
+### Important Note
+Please use <b>React Native</b> stack to complete this assessment. Any submissions using other stacks (For ex. React) will be rejected automatically.
 
 ### Requirements
 
