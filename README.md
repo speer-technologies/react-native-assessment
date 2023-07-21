@@ -42,7 +42,9 @@ These features aren't mandatory, but if you have extra time and want to stand ou
 
 ### Grading
 
-This exercise will be graded on a number of criteria including, but not limited to: 
+Kindly create a video recording of your screen clearly showing the startup and 20-40 second basic UI run through of the app. You do not need to add voiceovers for this. Upload the video to a google drive and share a publicly accessible link along with the github submission. #Our team will not be able to evaluate your submission without this video.  
+
+The Github repo for exercise will be graded on a number of criteria including, but not limited to: 
 - Clean, readable, and well documented code
 - Adherence to the SOLID principles
 - Utilization of an architectural pattern
@@ -51,7 +53,7 @@ This exercise will be graded on a number of criteria including, but not limited 
 
 ### Submission
 
-<i>There is no specific deadline, but please keep your work within a 24 hour time period (meaning you can start whenever as long you complete the assessment within a 24 hour period). It would be great if you could submit the assessment as soon as possible.</i>
+<i>There is no specific deadline, but please keep your work within a 48 hour time period (meaning you can start whenever as long you complete the assessment within a 48 hour period). It would be great if you could submit the assessment as soon as possible.</i>
 
 Please commit all of your work to a *private* GitHub repository. When you are finished, <b>include a log of the time spent for this assessment</b>, <b>invite</b> the [developer-at-speer](https://github.com/developer-at-speer) account.
 
