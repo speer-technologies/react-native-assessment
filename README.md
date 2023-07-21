@@ -42,7 +42,8 @@ These features aren't mandatory, but if you have extra time and want to stand ou
 
 ### Grading
 
-Kindly create a video recording of your screen clearly showing the startup and 20-40 second basic UI run through of the app. You do not need to add voiceovers for this. Upload the video to a google drive and share a publicly accessible link along with the github submission. #Our team will not be able to evaluate your submission without this video.  
+Kindly create a video recording of your screen clearly showing the startup and 20-40 second basic UI run through of the app. You do not need to add voiceovers for this. Upload the video to a google drive and share a publicly accessible link along with the github submission. 
+#Our team will not be able to evaluate your submission without this video.  
 
 The Github repo for exercise will be graded on a number of criteria including, but not limited to: 
 - Clean, readable, and well documented code
