@@ -26,7 +26,7 @@ For this asessment you'll need to familiarize yourself with parts of the [GitHub
     - If a user in this list is tapped, it should navigate us to their profile view
 3. The ability to navigate backwards through the navigation stack
 
-<b>Show us what you can do in no more than 24 hours. Keep a log of the time spent and include it with your submission.</b> 
+<b>Show us what you can do in no more than 48 hours. Keep a log of the time spent and include it with your submission.</b> 
 
 Note that there are no designs to follow for this assessment, so you have creative freedom when it comes to the layout and so on.
 If you are on Macbook, you should build the application for both iOS and Android. If you have windows, just Android build is fine.
@@ -56,11 +56,7 @@ The Github repo for exercise will be graded on a number of criteria including, b
 
 <i>There is no specific deadline, but please keep your work within a 48 hour time period (meaning you can start whenever as long you complete the assessment within a 48 hour period). It would be great if you could submit the assessment as soon as possible.</i>
 
-Please commit all of your work to a *private* GitHub repository. When you are finished, <b>include a log of the time spent for this assessment</b>, <b>invite</b> the [developer-at-speer](https://github.com/developer-at-speer) account.
-
-<b>Note</b>: Any submissions that do not follow these requirements will be rejected
-
-To submit your assessment please see here:
-https://docs.google.com/forms/d/e/1FAIpQLSc-DtUp1TLlde_FTjL-kkAkAn0M0I4Xjf4Md5M5NjYJWpDg4g/viewform?usp=sf_link
+To submit your assessment, please see here:
+https://docs.google.com/forms/d/e/1FAIpQLScwIwe8eaBV1MGzRW4clvZME8HDgKV6PeOIWnkGZXewkTMFOw/viewform?usp=sf_link
 
 #### Goodluck!
